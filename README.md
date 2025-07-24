@@ -31,15 +31,23 @@ We developed a rule-based system that:
 ---
 
 ## 📁 Folder Structure
----
+
 Adobe_Round1A/
 ├── app/
+
 │ ├── extractor.py # core heading extraction logic
+
 │ └── init.py
+
 ├── input/ # place PDFs here (e.g. sample.pdf)
+
 ├── output/ # .json output is saved here
+
 ├── run.py # runner script
+
 ├── requirements.txt # Python dependencies
+
 ├── Dockerfile # for containerized execution
+
 └── README.md # this file
----
+
