@@ -31,7 +31,7 @@ We developed a rule-based system that:
 ---
 
 ## 📁 Folder Structure
-
+---
 Adobe_Round1A/
 ├── app/
 │ ├── extractor.py # core heading extraction logic
@@ -42,3 +42,4 @@ Adobe_Round1A/
 ├── requirements.txt # Python dependencies
 ├── Dockerfile # for containerized execution
 └── README.md # this file
+---
