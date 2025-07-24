@@ -1,0 +1,1835 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Jos\u00e9 Quiroga P\u00e9rez",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Thanasis Daradoumis",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Joan Manuel Marqu\u00e8s Puig",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "METHODS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Identify research questions",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Literature search strategy",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Inclusion/exclusion criteria",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "RESULTS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Question 1: What are the different",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Significant findings of the study:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ethical considerations, cultural diversity,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Subtitle: Some chatbots discovered in educational environment",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Where is used",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Target age of",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Service",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Teaching",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Reference",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Lola",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "University of Murcia",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Mu\u00f1oz [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "AutoTutor",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "High School",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Graesser et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dina",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dian N. Semarang University",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Santoso et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dale aceptar",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Benotti et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "NerdyBot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Moln\u00e1r and Sz",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "StudyBuddy",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Moln\u00e1r and Sz",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "SmarterChild",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Moln\u00e1r and Sz",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "CourseQ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Cornell University",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Brustenga et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Differ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Norwegian Business School",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Brustenga et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "LTKABot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Students of Computer Science",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Mulyana et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "CEUBot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Cardenal Herrera University",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Brustenga et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "FITEBot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Science University Vietnam",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Hien et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Duolingo",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Brustenga et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Whatsapp Bot",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Telkom University",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Wisesa and Suyanto [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "CALMsystem",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "UK Students",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Kerly et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "CSIEC",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "University, Middle School",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Beijing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Jia [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "NDLTutor",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "University Students",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Sulenam et al. [",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ScratchThAI",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Thailand Students",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "From children",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Katchapakirin and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Anutariya [",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Question 2: How do chatbots affect",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Successful, but any problems?",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Question 3: What type of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Subtitle: Problems discovered",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Research",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Above",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Dibitonto et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "False sense of anonymity",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Shu and Riki [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Boredom",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Smutny and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Schereiberova [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Incipient technology",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Ciechanowski et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Uncanny valley",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Schuetzler et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Like Uncanny valley",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Moln\u00e1r and Sz",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Frustration",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Fryer et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Novelty effect",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Eicher et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Training side effects",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Shorey et al. [",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Technological limitations",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Training chatbots",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Subtitle: Examples of",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Framework",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Language",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Open",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Reference",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Lola",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Java",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "TensorFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Mu\u00f1oz [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "FreeLing",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Benotti et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Dina",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Node.js",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "DialogFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Santoso et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Smart Answering",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "HTML5 Java",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AIML",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Pichponreay",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AutoTutor",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "C# and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "VB.NET",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Graesser et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "LISA",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Facebook",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ChatFuel",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Dibitonto et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "FITEBot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Facebook",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Messenger",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "DialogFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Hien et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Virtual Patient",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "DialogFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Shorey et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "FAQs Chatbot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AIML + LSA",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Bhavika et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Mobile Chatbot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Mobile devices",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "DialogFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Pham et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "NDLtutor",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "HTML5 JQuery",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Php and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "MySQL",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sulenam et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "CALMSystem",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ASP.NET",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "LinguBot",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Kerly et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ScratchThAI",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Open source",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "DialogFlow",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Katchapakirin and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Anutariya [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Indigo",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Xiao et al. [",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "AIML",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Paschoal et al. [",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Question 4: In what cases does a",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "And what do the teachers think?",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Question 5: Would it be possible to",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DISCUSSION",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Summary of findings and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Subtitle: Quality attributes for chatbots and proposed approach for measure the educational quality",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Research",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Quality criteria",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Proposed approach",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Evaluating method",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Verleger and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Pembridge [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Effectiveness (perform service",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Questionnaires",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Santoso et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Do the task (perform service",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "User satisfaction,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Questionnaires",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Zawacki",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Richter",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ethical and educational approach",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Wei et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Self",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Radziwill and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Benton [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Performance, functionality,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Data analysis",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Przegalinska et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Conversation",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ivanovic et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Smutny and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Schereiberova [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Teaching, humanity, affection,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Questionnaires",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Savin",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Baden et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Conversation, friendly",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Data analysis",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Bii and Too [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Conversation, attributes of",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Mckie and Narayan [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Usable, friendly, and trustworthy",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Shawar and Atwell [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Perform service or task",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Dialog efficiency, dialog quality and user",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Gonda et al. [",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Seven principles of good teaching",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Limitations",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Implications",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Automatic knowledge extraction of any chatbot",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Interactive online tool as an instrument for",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "City, 2018; 70",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "B. Aujogue and A. Aussem,",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Hierarchical recurrent attention",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Neural Netw., 2019.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "A conversational agent to",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "A tool for",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Inspiring blind high school students to pursue",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science with instant messaging chatbots",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "SIGCSE Bull.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "What will be in those laptops: Empow-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Teacher attitude towards",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Four key challenges to",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Educ. Res. Rev.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Briefing",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "In the shades of the uncanny valley: An",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Future",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Gener. Comput. Syst.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Conoce a Aura, el asistente conversacional de Telef\u00f3nica",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "An artificially intelligent chat agent that an-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "An exploratory study",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Ensemble",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Descubre cu\u00e1les son los chatbots de los bancos que te ayudar\u00e1n",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "The use of innovative pedagogical tech-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Int. J. Higher Educ.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot in a campus environment: Design of",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "LiSA, a virtual assistant to help students in their university life",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Human",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Notes in Computer Science",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Jill Watson doesn't care if",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "AAAI/ACM Conf. AI, Ethics, Soc., 2018: 88",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Stimulating and sustaining interest in a lan-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Improving the user experi-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Learn. Technol. Appl., 2018.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Evaluation of developing educational chat-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Conf. Teach., Assessment, Learn. Eng., 2018.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "AutoTutor: An intelligent tutoring system",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Incorporating android",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Intelligent assistants in higher",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot for education system",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Res., Ideas Innov. Technol.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "W. Hsieh,",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Effects of cognitive styles on an MSN virtual",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Experiences and perspectives of technology",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Serbian",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "CSIEC: A computer assisted English learning chatbot",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Based",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Syst.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "An architectural design of",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ScratchThAI: A conversational agent for Computational Think-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Bringing chatbots into education:",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Towards natural language negotiation of open learner models",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Knowl.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Based Syst.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "CALMsystem: A conversational",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Based Syst.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Int. Conf. Adv. Learn. Technol., 2007.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ICALT.2007.275",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Enhancing the academic library",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Preferred reporting items for systematic reviews",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The role of chatbots in formal educa-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Bringing auto-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Conf.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Wireless",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Telematics,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ICWT.2018.8527810",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Lola, el chatbot inteligente que triunfa entre los",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Intelligent and cognitive technologies in edu-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Resource Development: Methodology in language teaching and",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot and conversational",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "IEEE 19th Int. Conf. Adv. Learn. Technol., 2019.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Sequence to sequence model performance",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Softw. Eng., 2019.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Promoting learners",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Technol., Knowl. Learn.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot as an intelligent personal assistant for",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Learn.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Assoc.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Comput.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Machine.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Smart answering chatbot based on OCR",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Ubiquitous",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Future",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Netw.,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ICUFN.2016.7536948",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Semantics driven interaction using natural",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Science",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Plan de transformaci\u00f3n digital",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "In bot we trust: A new methodology of",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Evaluating quality of chatbots and",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Quality_of_Chatbots_and_Intelligent_Conversational_Agents",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot for",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Inform., 2017.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Microservice chatbot architecture for chronic pa-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Data",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Driven edu chatbots",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Wide Web Conf., 2019: 46",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "BookBuddy: Turning digital materials into",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ACM Conf. Learn., 2019.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Requirements and constructors for tailoring",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Dinus Intelligent Assistance (DINA)",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Technol. Inf. Commun., 2018: 417",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Baden, G. Tombs, and R. Bhakta,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Beyond robotic",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Learn. Digit. Media",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The development of Messenger",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The effect of",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Comput. Human Behav.,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Can machines talk? Comparison of Eliza with",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Different measurements metrics",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Proc. Workshop Bridging Gap:",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Acad. Ind. Res Dialog Technol., 2007: 89",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "A virtual counseling application using artificial",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Chatbot and dialogue demonstration with a",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Lecture",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Notes",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Computer",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Science",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Springer, Cham, Switzerland.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Chatbots for learning: A review",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Educ.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Literature review as a research methodology: An",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Interacting with a conversa-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Gamified performance assessment of colla-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "New perspective",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "An FAQ dataset for E",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Designing an emotionally realistic chatbot fra-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "The relation between 21st",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Behav.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "A pilot study integrating an AI",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Frontiers Educ. Conf., 2018.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Ch, A. Arias",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Navarrete, and X. Palacios",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Pacheco,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Proposal of an architecture for the integration of a chatbot with",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "How to build a chatbot: Chatbot",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Learn.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Comput.,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "ELIZA",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "A computer program for the study of",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Commun.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Indonesian chatbot of university",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Villacres et al.,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Consejero automatico: Chatbots for",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Int. Conf. Inf. Commun. Technol. Develop., 2019: 1",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "T. Fu,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Who should be my team-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "CLIVE",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "An artificially intelligent chat",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Artificial",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Computer Science",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Richter, V. I. Mar\u00edn, and M. Bond,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Systematic re-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Where are the educators?",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Int. J. Educ. Technol",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Higher Educ.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Design and implementation of a chatbot in online",
+      "page": 16
+    }
+  ]
+}
